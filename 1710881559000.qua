@@ -2709,6 +2709,10 @@ HitObjects:
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 5
+- StartTime: 40847
+  Lane: 2
+  KeySounds: []
+  EditorLayer: 6
 - StartTime: 40943
   Lane: 3
   KeySounds: []

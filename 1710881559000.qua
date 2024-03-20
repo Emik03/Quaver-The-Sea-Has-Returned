@@ -15397,10 +15397,6 @@ HitObjects:
   Lane: 3
   KeySounds: []
   EditorLayer: 4
-- StartTime: 200427
-  Lane: 3
-  KeySounds: []
-  EditorLayer: 4
 - StartTime: 200718
   Lane: 3
   KeySounds: []

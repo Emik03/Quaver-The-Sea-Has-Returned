@@ -5076,15 +5076,11 @@ HitObjects:
   Lane: 3
   KeySounds: []
   EditorLayer: 4
-- StartTime: 70072
-  Lane: 3
-  KeySounds: []
-  EditorLayer: 4
 - StartTime: 70169
   Lane: 3
   KeySounds: []
   EditorLayer: 4
-- StartTime: 70363
+- StartTime: 70266
   Lane: 3
   KeySounds: []
   EditorLayer: 4
@@ -5105,10 +5101,6 @@ HitObjects:
   KeySounds: []
   EditorLayer: 4
 - StartTime: 71040
-  Lane: 3
-  KeySounds: []
-  EditorLayer: 4
-- StartTime: 71137
   Lane: 3
   KeySounds: []
   EditorLayer: 4

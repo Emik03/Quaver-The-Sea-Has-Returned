@@ -4731,7 +4731,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 9
 - StartTime: 72395
-  Lane: 3
+  Lane: 2
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 7
@@ -4754,17 +4754,17 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 6
-- StartTime: 72782
+- StartTime: 72879
   Lane: 3
   KeySounds: []
-  EditorLayer: 4
+  EditorLayer: 10
 - StartTime: 72976
   Lane: 2
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 7
 - StartTime: 72976
-  Lane: 3
+  Lane: 4
   KeySounds: []
   EditorLayer: 4
 - StartTime: 72976

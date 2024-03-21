@@ -4118,12 +4118,12 @@ HitObjects:
   KeySounds: []
   EditorLayer: 3
 - StartTime: 62524
-  Lane: 1
+  Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 5
 - StartTime: 62621
-  Lane: 2
+  Lane: 1
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 7
@@ -4132,7 +4132,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 4
 - StartTime: 62718
-  Lane: 1
+  Lane: 2
   KeySounds: []
   EditorLayer: 1
 - StartTime: 62718
@@ -4140,7 +4140,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 6
 - StartTime: 62814
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 10
 - StartTime: 62911

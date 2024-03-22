@@ -1,4 +1,5 @@
 AudioFile: audio.mp3
+SongPreviewTime: 72395
 BackgroundFile: ''
 MapId: -1
 MapSetId: -1
@@ -5038,15 +5039,15 @@ HitObjects:
   KeySounds: []
   EditorLayer: 6
 - StartTime: 76459
-  Lane: 2
-  HitSound: Normal, Clap
-  KeySounds: []
-  EditorLayer: 7
-- StartTime: 76459
   Lane: 1
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 5
+- StartTime: 76459
+  Lane: 2
+  HitSound: Finish, Clap
+  KeySounds: []
+  EditorLayer: 8
 - StartTime: 76556
   Lane: 3
   KeySounds: []

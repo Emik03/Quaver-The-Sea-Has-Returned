@@ -9182,15 +9182,11 @@ HitObjects:
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 7
-- StartTime: 119621
+- StartTime: 119717
   Lane: 3
   KeySounds: []
   EditorLayer: 4
-- StartTime: 119718
-  Lane: 3
-  KeySounds: []
-  EditorLayer: 4
-- StartTime: 119911
+- StartTime: 119814
   Lane: 3
   KeySounds: []
   EditorLayer: 4
@@ -9227,10 +9223,6 @@ HitObjects:
   Lane: 2
   KeySounds: []
   EditorLayer: 6
-- StartTime: 120685
-  Lane: 3
-  KeySounds: []
-  EditorLayer: 4
 - StartTime: 120782
   Lane: 3
   KeySounds: []

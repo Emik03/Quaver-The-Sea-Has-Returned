@@ -10123,7 +10123,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 6
 - StartTime: 197427
-  Lane: 3
+  Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4

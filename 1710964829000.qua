@@ -1,6 +1,7 @@
 AudioFile: audio.mp3
 SongPreviewTime: 72395
-BackgroundFile: ''
+BackgroundFile: zeroranger-bg.png
+BannerFile: zeroranger-banner.png
 MapId: -1
 MapSetId: -1
 Mode: Keys4

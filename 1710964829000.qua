@@ -4575,12 +4575,12 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
-- StartTime: 68621
+- StartTime: 68653
   Lane: 2
   HitSound: Normal, Finish
   KeySounds: []
   EditorLayer: 3
-- StartTime: 68621
+- StartTime: 68653
   Lane: 1
   KeySounds: []
   EditorLayer: 1

@@ -40,7 +40,7 @@ EditorLayers:
 CustomAudioSamples: []
 SoundEffects: []
 TimingPoints:
-- StartTime: 8.3446712493896484
+- StartTime: 4.3446712493896484
   Bpm: 155
   Signature: 2
 - StartTime: 1552.75

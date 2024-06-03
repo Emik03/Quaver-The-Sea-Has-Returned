@@ -2,8 +2,8 @@ AudioFile: audio.mp3
 SongPreviewTime: 72395
 BackgroundFile: zeroranger-bg.png
 BannerFile: zeroranger-banner.png
-MapId: -1
-MapSetId: -1
+MapId: 142753
+MapSetId: 33279
 Mode: Keys4
 Title: The Sea Has Returned
 Artist: eebrozgi
